@@ -1,7 +1,6 @@
 name: capture_and_share
 description: A new Flutter plugin.
 version: 0.0.1
-author: toonztudio
 homepage: https://github.com/toonztudio/capture_and_share
 
 environment:
