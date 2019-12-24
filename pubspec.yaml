@@ -1,6 +1,6 @@
 name: capture_and_share
-description: A new Flutter plugin.
-version: 0.0.1
+description: A Flutter plugin to take a screenshot using native code and share it via the platform's share image dialog. You can specify width, height and x, y position of the cropped screenshot. For now this plugin only works on ios.
+version: 0.0.1+1
 homepage: https://github.com/toonztudio/capture_and_share
 
 environment:
