@@ -1,6 +1,8 @@
 # capture_and_share
 
-[![pub package](https://img.shields.io/pub/v/capture_and_share.svg)](https://pub.dev/packages/capture_and_share) A Flutter plugin to take a screenshot using native code and share it via the platform's share image dialog. You can specify width, height and x, y position of the cropped screenshot. For now this plugin only works on ios.
+[![pub package](https://img.shields.io/pub/v/capture_and_share.svg)](https://pub.dev/packages/capture_and_share)
+
+A Flutter plugin to take a screenshot using native code and share it via the platform's share image dialog. You can specify width, height and x, y position of the cropped screenshot. For now this plugin only works on ios.
 
 <p align="center">
 	<img src="https://github.com/toonztudio/capture_and_share/blob/master/resize.gif?raw=true" />
