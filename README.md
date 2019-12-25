@@ -42,6 +42,12 @@ It's only works on IOS only for now. I will come back to implement Android code 
 | `xMode`      | Horizontal cropped mode. You can choose left, center or right for xMode. Default is center. | String |
 | `yMode`      | Vertical cropped mode. You can choose top, center or bottom for yMode. Default is center.   | String |
 
+## TODOs
+
+- handle exceptions
+- unit testing
+- make it working on Android device
+
 ## Credits
 
 thanks you screenshot_share_image (https://pub.dev/packages/screenshot_share_image) for inspiring me.
